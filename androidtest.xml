@@ -36,4 +36,6 @@
         <item quantity="one">Participant: %s</item>
         <item quantity="other">Participants: %s</item>
     </plurals>
+    <!-- Label TEST-->
+    <string name="panos">This is a test</string>    
 </resources>
